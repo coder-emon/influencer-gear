@@ -215,3 +215,27 @@ body {
     color: #fff;
     cursor: pointer;
 }
+footer{
+    text-align: center;
+    background-color: #0A0826;
+    padding: 50px 0;
+}
+footer h4{
+    color: #fff;
+    font-size: 24px;
+}
+footer p{
+    color: #D9DBE1;
+    font-size: 14px;
+    line-height: 24px;
+}
+.social-wrap{
+    padding-top: 20px;
+}
+.social-wrap i{
+    color: #fff;
+    background-color: #22213C;
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 10px;
+}
